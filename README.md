@@ -62,7 +62,7 @@ app/
 │   │   └── res/               # Layouts, drawables, styles, strings
 ```
 
-# ▶️ How to Run the Project
+# 🚀 How to Run the Project
 Prerequisites
 - Android Studio (Giraffe or newer).
 - Recent Android SDK.
