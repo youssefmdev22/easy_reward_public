@@ -9,35 +9,6 @@ RewardsApp allows users to:
 - Track balances and transactions seamlessly.
 The app integrates with a custom backend to handle authentication, balances, transactions, and payout requests using a token-based flow.
 
-# 📸 Screenshots
-| Login | Register | Forget Password |
-| ------------ | ------------ | ------------ |
-| <img src="screenshots/login.png" alt="Login" width="200"/> | <img src="screenshots/register.png" alt="Register" width="200"/> | <img src="screenshots/forget_password.png" alt="Forget Password" width="200"/> |
-
-| Offers | Redeem | Transactions |
-| ------------ | ------------ | ------------ |
-| <img src="screenshots/offers.png" alt="Offers" width="200"/> | <img src="screenshots/redeem.png" alt="Redeem" width="200"/> | <img src="screenshots/transactions.png" alt="Transactions" width="200"/> |
-
-| Profile |
-| ------------ |
-| <img src="screenshots/profile.png" alt="Profile" width="200"/> |
-
-| Success Dialog | Warning Dialog | Error Dialog |
-| ------------ | ------------ | ------------ |
-| <img src="screenshots/success_dialog.png" alt="SuccessDialog" width="200"/> | <img src="screenshots/warning_dialog.png" alt="WarningDialog" width="200"/> | <img src="screenshots/error_dialog.png" alt="ErrorDialog" width="200"/> |
-
-| Loading Dialog |
-| ------------ |
-| <img src="screenshots/loading_dialog.gif" alt="LoadingDialog" width="200"/> |
-
-| Splash Screen | Page Transition | Container Transition |
-| ------------ | ------------ | ------------ |
-| <img src="screenshots/splash_screen.gif" alt="SplashScreen" width="200"/> | <img src="screenshots/page_transition.gif" alt="PageTransition" width="200"/> | <img src="screenshots/container_transition.gif" alt="ContainerTransition" width="200"/> |
-
-| Logout Transition |
-| ------------ |
-| <img src="screenshots/logout_transition.gif" alt="LogoutTransition" width="200"/> |
-
 # 🛠️ Tech Stack
 - Platform: Native Android (Java), AndroidX, MultiDex
 - Networking: Retrofit2, Gson/GsonConverterFactory
@@ -104,6 +75,35 @@ Setup
 Run
 - Select a device/emulator and press Run.
 - App starts at SplashScreenActivity, then navigates to Auth or Main depending on session state.
+
+# 📸 Screenshots
+| Login | Register | Forget Password |
+| ------------ | ------------ | ------------ |
+| <img src="screenshots/login.png" alt="Login" width="200"/> | <img src="screenshots/register.png" alt="Register" width="200"/> | <img src="screenshots/forget_password.png" alt="Forget Password" width="200"/> |
+
+| Offers | Redeem | Transactions |
+| ------------ | ------------ | ------------ |
+| <img src="screenshots/offers.png" alt="Offers" width="200"/> | <img src="screenshots/redeem.png" alt="Redeem" width="200"/> | <img src="screenshots/transactions.png" alt="Transactions" width="200"/> |
+
+| Profile |
+| ------------ |
+| <img src="screenshots/profile.png" alt="Profile" width="200"/> |
+
+| Success Dialog | Warning Dialog | Error Dialog |
+| ------------ | ------------ | ------------ |
+| <img src="screenshots/success_dialog.png" alt="SuccessDialog" width="200"/> | <img src="screenshots/warning_dialog.png" alt="WarningDialog" width="200"/> | <img src="screenshots/error_dialog.png" alt="ErrorDialog" width="200"/> |
+
+| Loading Dialog |
+| ------------ |
+| <img src="screenshots/loading_dialog.gif" alt="LoadingDialog" width="200"/> |
+
+| Splash Screen | Page Transition | Container Transition |
+| ------------ | ------------ | ------------ |
+| <img src="screenshots/splash_screen.gif" alt="SplashScreen" width="200"/> | <img src="screenshots/page_transition.gif" alt="PageTransition" width="200"/> | <img src="screenshots/container_transition.gif" alt="ContainerTransition" width="200"/> |
+
+| Logout Transition |
+| ------------ |
+| <img src="screenshots/logout_transition.gif" alt="LogoutTransition" width="200"/> |
 
 # 🔗 Social Links
 * GitHub: [youssefmdev22](https://github.com/youssefmdev22)
